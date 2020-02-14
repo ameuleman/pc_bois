@@ -38,7 +38,7 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="331.74641"
+     inkscape:cy="270.96397"
      inkscape:cx="643.66184"
      inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
@@ -80,7 +80,8 @@
        style="fill:none;stroke-width:1.12007403" />
     <g
        id="g1511"
-       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(-1,0,0,1,270.10001,0)">
       <rect
          transform="matrix(0,1,1,0,0,0)"
          rx="1.5500004"
@@ -533,7 +534,8 @@
     </g>
     <g
        id="g1569"
-       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(-1,0,0,1,270.10001,0)">
       <path
          id="path1616-3-2-1"
          d="m 62.499997,289.50014 -29.9,-4e-5"
